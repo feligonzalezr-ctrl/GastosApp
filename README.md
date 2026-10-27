@@ -2,8 +2,8 @@
 
 Proyecto de la **Evaluación Parcial 2 – DSY1105 Desarrollo de Aplicaciones Móviles (DuocUC)**.
 
-**Integrantes:** _(escribir nombres de los dos estudiantes)_
-**Equipo N°:** _(completar)_
+**Integrantes:** Felipe González
+**Equipo N°:** 17
 
 ## Descripción
 Aplicación Android para registrar y revisar gastos personales. Cada usuario crea una cuenta, inicia sesión y administra sus propios gastos, que quedan guardados en el teléfono.
