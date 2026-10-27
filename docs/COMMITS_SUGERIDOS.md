@@ -1,0 +1,14 @@
+# Commits sugeridos (háganlos de a poco y repartidos entre ambos)
+- chore: crear proyecto base con Compose y dependencias
+- feat(data): agregar entidades Usuario y Gasto con DAO y base Room
+- feat(util): crear Validador de correo, clave, titulo y monto
+- feat(auth): implementar AuthViewModel con registro y login
+- feat(ui): agregar pantallas de login y registro con validacion visual
+- feat(ui): crear componentes Campo y BotonAnimado
+- feat(gastos): implementar GastosViewModel con CRUD y total
+- feat(ui): agregar pantalla de lista de gastos
+- feat(ui): agregar formulario de gasto con categorias
+- feat(native): integrar camara con FileProvider y permisos
+- feat(native): integrar ubicacion con FusedLocationProvider
+- feat(nav): configurar NavHost con transiciones animadas
+- docs: agregar README con funcionalidades y pasos de ejecucion
