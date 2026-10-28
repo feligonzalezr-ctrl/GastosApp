@@ -25,3 +25,5 @@ Aplicación Android para registrar y revisar gastos personales. Cada usuario cre
 
 ## Tecnologías
 Kotlin · Jetpack Compose · Material 3 · Navigation Compose · Room · Coil · Google Play Services Location
+
+url: https://github.com/feligonzalezr-ctrl/GastosApp.git
